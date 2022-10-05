@@ -1,9 +1,4 @@
----- Gastronomie
--- FR
-"L'homme est bon, mais le veau est meilleur.","Bertold Brecht"
-"Chaque repas que l'on fait est un repas de moins à faire.","Vladimir Jankélévitch"
-"La gourmandise commence quand on n'a plus faim.","Alphonse Daudet"
-"Le plus grand outrage qu'on l'on puisse faire à un gourmand, c'est de l'interrompre dans l'exercice de ses mâchoires.","Alexandre Balthazar Grimod de la Reynière"
+
 -- EN
 "One cannot think well, love well, sleep well, if one has not dined well.","Virginia Woolf"
 "Ask not what you can do for your country. Ask what’s for lunch.","Orson Welles"
@@ -15,14 +10,6 @@
 ---------
 
 ---- Vin
--- FR
-"Le vin est innocent, l'ivrogne seul est coupable.","Proverbe Russe"
-"Trop ou trop peu de vin interdit la vérité.","Blaise Pascal"
-"Plus il y a de marches, meilleure est la cave.","Proverbe bourguignon"
-"Mettre de l’eau dans son vin, c’est faire de la fausse monnaie.","Michel BOUVIER"
-"Jésus changeait l’eau en vin. Tu m’étonne que 12 mecs le suivaient partout.","Coluche"
-"L’homme doit au vin d’être le seul animal à boire sans soif.","Pline l'Ancien"
-
 -- EN
 "Either give me more wine or leave me alone.","Rumi"
 "I cook with wine. Sometimes I even add it to the food.","W. C. Fields"
