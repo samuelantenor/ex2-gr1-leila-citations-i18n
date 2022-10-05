@@ -11,7 +11,14 @@
  */
 function obtenirCitationAleatoire($section, $langue)
 {
+    //vérifier si le fichier existe avant de l'utiliser
+    if(file_exists("data/citations-$section-$langue.json")){
     $citationsJson = file_get_contents("data/citations-$section-$langue.json");
+    }
+    else
+    {
+    $citationsJson = file_get_contents("data/citations-$section-fr.json");   
+    }
     $citations = json_decode($citationsJson, true);
     $positionAleatoire = rand(0, count($citations)-1);
     $citation = $citations[$positionAleatoire];
